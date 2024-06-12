@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>606_Zone_5_Sruface_Mine_0cm_depth__6-9m_TemperatureInCenter__29-C_jpg.rf.4c9f087986ee1f8c7b7c824ae7a11532.jpg</filename>
+	<path>606_Zone_5_Sruface_Mine_0cm_depth__6-9m_TemperatureInCenter__29-C_jpg.rf.4c9f087986ee1f8c7b7c824ae7a11532.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>740</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>landmines</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>318</xmin>
+			<xmax>342</xmax>
+			<ymin>237</ymin>
+			<ymax>254</ymax>
+		</bndbox>
+	</object>
+</annotation>

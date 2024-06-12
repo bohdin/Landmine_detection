@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>461_Zone_4_Surface_Mine_0cm_depth__0-7m_TemperatureInCenter__26-C_jpg.rf.82f8cde93332a6644a24b436a840bc8d.jpg</filename>
+	<path>461_Zone_4_Surface_Mine_0cm_depth__0-7m_TemperatureInCenter__26-C_jpg.rf.82f8cde93332a6644a24b436a840bc8d.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>740</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>landmines</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>307</xmin>
+			<xmax>380</xmax>
+			<ymin>158</ymin>
+			<ymax>222</ymax>
+		</bndbox>
+	</object>
+</annotation>
